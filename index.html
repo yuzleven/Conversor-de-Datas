@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Datas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="carregando_pagina">
+            <img class="imagem_calendario  fade-out" src="./img/pngfind.com-heart-icon-png-3260852.png" alt="calendário com um coração no meio">
+        </div>
+    </header>
+
+    <main class="container_principal fade-in">
+        <section class="frame">
+            <div class="container_conversor">
+                <a href="" class="titulo_principal">Conversor de Datas</a>
+                <h2 class="titulo_legenda">Do formato Americano para o Brasileiro!</h2>
+            </div>
+            <form class="container_conversor"  id="display_none">
+                <p class="texto_informativo" id="texto_informativo">Anexe um arquivo txt que deseja converter!</p>
+                <input type="file" id="inputArquivo" accept=".txt">
+                <label for="inputArquivo" id="labelArquivo">Enviar arquivo</label>
+                <button type="button" id="btnConverter" class="botao_converter" disabled>converter</button>
+            </form>
+            <div class="container_conversor resultado">
+              <pre id="resultado"></pre>
+              <textarea id="previaConvertido" readonly style="display: none;"></textarea>
+            </div>
+        </section>
+    </main>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
