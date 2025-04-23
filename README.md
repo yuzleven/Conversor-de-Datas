@@ -5,7 +5,7 @@ Este é um site com o intuito de converter qualquer arquivo txt, que contenha a 
 <br>
 
 > [!TIP]
-> 📁 Para testar o site, deixarei disponível o [Arquivo txt Teste](projetos%202025/projeto_integrador_transdisciplinar%20em%20ADS/arquivo_teste.txt.txt), que contém um arquivo de texto incluindo datas no padrão americano. 
+> 📁 Para testar o site, deixarei disponível o "[Arquivo txt Teste](https://github.com/yuzleven/Conversor_de_Datas/blob/main/arquivo_teste.txt.txt)", que contém um arquivo de texto incluindo datas no padrão americano. 
 
 #
 
