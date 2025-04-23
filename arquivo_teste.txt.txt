@@ -1,0 +1,3 @@
+Quando o produto de software é disponibilizado para diferentes países, é comum que determinados padrões sofram alterações, caso da data no formato norte-americano e brasileiro, por exemplo. Nos Estados Unidos, a data é normalmente precedida pelo ano e tem como sequência o mês e o dia. 
+
+Nesse cenário, como as expressões regulares podem ajudar você a transformar as datas no formato 2022-11-30 para o padrão brasileiro?
